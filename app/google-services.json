@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6906845017",
+    "project_id": "responsi-65905",
+    "storage_bucket": "responsi-65905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6906845017:android:21300b102681891bb6de48",
+        "android_client_info": {
+          "package_name": "com.example.responsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6906845017-vqni39a3fl6s0ep0vnlsql180eq338kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNGhJrirSkn9yX7-VivwVOABV5oWfS-os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6906845017-vqni39a3fl6s0ep0vnlsql180eq338kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
